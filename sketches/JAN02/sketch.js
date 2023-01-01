@@ -1,3 +1,10 @@
+/*
+Genuary 2023
+JAN.02 "Made in 10 minutes"
+
+By Evgeny Sushko
+https://github.com/evgenysushko
+*/
 "use strict";
 
 let w = 800;
@@ -10,9 +17,10 @@ function setup() {
   pixelDensity(1);
   createCanvas(w, w);
   background(220);
-  strokeWeight(2);
   fill(51);
+  noStroke();
   circle(width / 2, height / 2, rLimit);
+  strokeWeight(2);
 }
 
 function draw() {
@@ -34,7 +42,7 @@ function draw() {
   }
   endShape();
 
-  // if (r >= rLimit / 2) noLoop();
+  if (r >= rLimit / 2) noLoop();
 }
 
 function keyPressed() {
