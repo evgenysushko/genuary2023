@@ -12,11 +12,11 @@ let FPS = 60;
 let totalFrames = 30;
 // const totalFrames = 120;
 
-let w = 620;
-// const w = 800;
+// let w = 620;
+const w = 800;
 
-let offset = 10;
-// const offset = w / 10;
+// let offset = 10;
+const offset = w / 10;
 
 let spacing = 10;
 let capture = false;
@@ -27,8 +27,8 @@ function setup() {
 }
 
 function draw() {
-  // stroke(120, 20, 20, 120);
-  stroke(80);
+  stroke(120, 20, 20, 120);
+  // stroke(80);
   noFill();
 
   background(220);
@@ -61,8 +61,8 @@ function periodicFunction(t) {
 }
 
 function offsetFunction(x, y) {
-  // return (x / 20) ** 2 + (y / 50) ** 2;
-  return (x / 45) * (y / 45);
+  return (x / 20) ** 2 + (y / 50) ** 2;
+  // return (x / 45) * (y / 45);
 }
 
 function keyPressed() {
