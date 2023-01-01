@@ -6,7 +6,7 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 > Perfect loop
 
-<img src="./output/JAN01b.gif" width="200"/> 
+<img src="./output/JAN01b.gif" width="200"/> <img src="./output/JAN01a.gif" width="200"/> 
 
 ## JAN.02
 
