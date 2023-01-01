@@ -8,15 +8,14 @@ https://github.com/evgenysushko
 "use strict";
 
 let FPS = 60;
-
 let totalFrames = 30;
 // const totalFrames = 120;
 
 // let w = 620;
-const w = 800;
+let w = 800;
 
 // let offset = 10;
-const offset = w / 10;
+let offset = w / 10;
 
 let spacing = 10;
 let capture = false;
