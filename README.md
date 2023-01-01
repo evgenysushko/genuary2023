@@ -6,10 +6,10 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 > Perfect loop
 
-<img src="./output/JAN01b.gif" width="300"/> 
+<img src="./output/JAN01b.gif" width="200"/> 
 
 ## JAN.02
 
 > Made in 10 minutes
 
-<img src="./output/JAN02_1.png" width="300"/> <img src="./output/JAN02_2.png" width="300"/> <img src="./output/JAN02_3.png" width="300"/> <img src="./output/JAN02_4.png" width="300"/> 
+<img src="./output/JAN02_1.png" width="200"/> <img src="./output/JAN02_2.png" width="200"/> <img src="./output/JAN02_3.png" width="200"/> <img src="./output/JAN02_4.png" width="200"/> 
