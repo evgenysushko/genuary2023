@@ -2,8 +2,9 @@
 
 Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
-## Jan 01
+## JAN.01
 
-> Perfect loop
+> Perfect loop (v1)
 
-.
+<img src="./output/JAN01a.gif" width="400"/> 
+
