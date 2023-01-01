@@ -7,10 +7,12 @@ let rLimit = w - 2 * offset;
 let theta = 0;
 
 function setup() {
+  pixelDensity(1);
   createCanvas(w, w);
-  background(51);
+  background(220);
+  strokeWeight(2);
   fill(51);
-  // circle(width / 2, height / 2, rLimit);
+  circle(width / 2, height / 2, rLimit);
 }
 
 function draw() {
@@ -19,8 +21,6 @@ function draw() {
   if (r > rLimit / 2) {
     stroke(51);
   } else stroke(255);
-
-  strokeWeight(2);
 
   beginShape();
   for (let i = 0; i < 10; i++) {
@@ -34,7 +34,7 @@ function draw() {
   }
   endShape();
 
-  if (r >= rLimit / 2) noLoop();
+  // if (r >= rLimit / 2) noLoop();
 }
 
 function keyPressed() {
