@@ -6,7 +6,7 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 > Perfect loop
 
-<img src="./output/JAN01b.gif" width="200"/> <img src="./output/JAN01a.gif" width="200"/> 
+<img src="./output/JAN01b.gif" width="200"/>
 
 ## JAN.02
 
@@ -19,7 +19,3 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Glitch Art
 
 <img src="./output/JAN03_1.png" width="200"/> <img src="./output/JAN03_2.png" width="200"/> <img src="./output/JAN03_3.png" width="200"/> <img src="./output/JAN03_4.png" width="200"/> 
-
-## JAN.04
-
-> Intersections
