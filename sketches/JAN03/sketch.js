@@ -20,7 +20,7 @@ function setup() {
   // pixelDensity(1);
   createCanvas(w, w);
   noStroke();
-  ellipseMode(CORNER);
+  // ellipseMode(CORNER);
 }
 
 function draw() {
@@ -54,6 +54,7 @@ function draw() {
       fill(colors[i]);
       push();
       rotate(random(0.05));
+      // circle(gridX * rectSize, gridY * rectSize, rectSize);
       square(gridX * rectSize, gridY * rectSize, rectSize);
       pop();
       i++;
