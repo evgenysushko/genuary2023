@@ -1,6 +1,6 @@
 /*
 Genuary 2023
-JAN.03 "Intersections"
+JAN.04 "Intersections"
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
@@ -34,7 +34,6 @@ function draw() {
     particle.display();
   }
 
-  // granulate(70);
   granulateChannels(70);
 }
 
@@ -53,10 +52,8 @@ class Circle {
   display() {
     this.color1.setAlpha(this.alpha1);
     this.color2.setAlpha(this.alpha2);
-
     fill(this.color1);
     circle(this.posX, this.posY, this.size1);
-
     fill(this.color2);
     circle(this.posX, this.posY, this.size2);
   }
