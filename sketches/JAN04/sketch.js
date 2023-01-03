@@ -19,7 +19,6 @@ let actRandomSeed = 0;
 function setup() {
   // pixelDensity(1);
   createCanvas(w, w);
-  // createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
@@ -34,7 +33,7 @@ function draw() {
     particle.display();
   }
 
-  granulateChannels(70);
+  granulate(90);
 }
 
 class Circle {
@@ -46,7 +45,7 @@ class Circle {
     this.color1 = color(rcol());
     this.color2 = color(rcol());
     this.alpha1 = random(80) * random();
-    this.alpha2 = random(120) * random();
+    this.alpha2 = random(180) * random();
   }
 
   display() {
@@ -68,15 +67,16 @@ function rcol() {
   return colors[int(random(colors.length))];
 }
 
-function granulateChannels(amount) {
+function granulate(amount) {
   loadPixels();
   const d = pixelDensity();
   const pixelsCount = 4 * (width * d) * (height * d);
   for (let i = 0; i < pixelsCount; i += 4) {
-    pixels[i] = pixels[i] + random(-amount, amount);
-    pixels[i + 1] = pixels[i + 1] + random(-amount, amount);
-    pixels[i + 2] = pixels[i + 2] + random(-amount, amount);
-    pixels[i + 3] = pixels[i + 3] + random(-amount, amount);
+    const grainAmount = random(-amount, amount);
+    pixels[i] = pixels[i] + grainAmount;
+    pixels[i + 1] = pixels[i + 1] + grainAmount;
+    pixels[i + 2] = pixels[i + 2] + grainAmount;
+    pixels[i + 3] = pixels[i + 3] + grainAmount;
   }
   updatePixels();
 }
