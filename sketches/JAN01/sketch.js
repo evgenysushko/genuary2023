@@ -3,7 +3,7 @@ Genuary 2023
 JAN.01 "Perfect loop / Infinite loop / endless GIFs"
 
 By Evgeny Sushko
-https://github.com/evgenysushko
+https://github.com/evgenysushko/genuary2023
 */
 "use strict";
 

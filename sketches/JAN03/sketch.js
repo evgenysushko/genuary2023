@@ -3,7 +3,7 @@ Genuary 2023
 JAN.03 "Glitch Art"
 
 By Evgeny Sushko
-https://github.com/evgenysushko
+https://github.com/evgenysushko/genuary2023
 */
 
 "use strict";
