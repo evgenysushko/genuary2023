@@ -25,3 +25,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Intersections
 
 <img src="./output/JAN04_1.png" width="200"/> <img src="./output/JAN04_2.png" width="200"/> <img src="./output/JAN04_3.png" width="200"/> <img src="./output/JAN04_4.png" width="200"/> 
+
+## JAN.05
+
+> Debug view
+
+<img src="./output/JAN05_1.png" width="200"/> <img src="./output/JAN05_2.png" width="200"/> <img src="./output/JAN05_3.png" width="200"/> <img src="./output/JAN05_4.png" width="200"/> 
