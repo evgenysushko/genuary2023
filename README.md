@@ -30,4 +30,4 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 > Debug view
 
-<img src="./output/JAN05_1.png" width="200"/> <img src="./output/JAN05_2.png" width="200"/> <img src="./output/JAN05_3.png" width="200"/> <img src="./output/JAN05_4.png" width="200"/> 
+<img src="./output/JAN05_2.png" width="200"/> <img src="./output/JAN05_1.png" width="200"/> <img src="./output/JAN05_3.png" width="200"/> <img src="./output/JAN05_4.png" width="200"/> 
