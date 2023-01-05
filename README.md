@@ -31,3 +31,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Debug view
 
 <img src="./output/JAN05_2.png" width="200"/> <img src="./output/JAN05_1.png" width="200"/> <img src="./output/JAN05_3.png" width="200"/> <img src="./output/JAN05_4.png" width="200"/> 
+
+## JAN.06
+
+> Steal like an artist
+
+<img src="./output/JAN06_1.png" width="200"/> <img src="./output/JAN06_4.png" width="200"/> <img src="./output/JAN06_2.png" width="200"/> <img src="./output/JAN06_3.png" width="200"/> 
