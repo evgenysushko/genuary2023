@@ -1,6 +1,8 @@
 /*
 Genuary 2023
-JAN.XX ""
+JAN.07 "Sample a color palette from your favorite movie/album cover"
+
+image credit: Avatar movie
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
