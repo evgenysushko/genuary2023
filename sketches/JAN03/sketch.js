@@ -13,7 +13,7 @@ let img;
 let colors = [];
 
 function preload() {
-  img = loadImage("sketches/JAN03/data/klimt.jpeg");
+  img = loadImage("data/klimt.jpeg");
 }
 
 function setup() {

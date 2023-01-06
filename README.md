@@ -37,3 +37,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Steal like an artist
 
 <img src="./output/JAN06_1.png" width="200"/> <img src="./output/JAN06_4.png" width="200"/> <img src="./output/JAN06_2.png" width="200"/> <img src="./output/JAN06_3.png" width="200"/> 
+
+## JAN.07
+
+> Sample a color palette from your favorite movie/album cover
+
+<img src="./output/JAN07_1.png" width="200"/> <img src="./output/JAN07_2.png" width="200"/> <img src="./output/JAN07_3.png" width="200"/> <img src="./output/JAN07_4.png" width="200"/> 
