@@ -50,8 +50,8 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN08_1.png" width="200"/> <img src="./output/JAN08_2.png" width="200"/> <img src="./output/JAN08_3.png" width="200"/> <img src="./output/JAN08_4.png" width="200"/> 
 
-<!-- ## JAN.09
+## JAN.09
 
 > Plants
 
-<img src="./output/JAN09_1.png" width="200"/> <img src="./output/JAN09_2.png" width="200"/> <img src="./output/JAN09_3.png" width="200"/> <img src="./output/JAN09_4.png" width="200"/>  -->
+<img src="./output/JAN09_1.png" width="200"/> <img src="./output/JAN09_2.png" width="200"/> <img src="./output/JAN09_3.png" width="200"/> <img src="./output/JAN09_4.png" width="200"/> 
