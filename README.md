@@ -55,3 +55,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Plants
 
 <img src="./output/JAN09_1.png" width="200"/> <img src="./output/JAN09_2.png" width="200"/> <img src="./output/JAN09_3.png" width="200"/> <img src="./output/JAN09_4.png" width="200"/> 
+
+## JAN.11
+
+> Suprematism
+
+<img src="./output/JAN11_1.png" width="200"/> <img src="./output/JAN11_2.png" width="200"/> <img src="./output/JAN11_3.png" width="200"/> <img src="./output/JAN11_4.png" width="200"/> 
