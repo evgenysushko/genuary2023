@@ -56,6 +56,11 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN09_1.png" width="200"/> <img src="./output/JAN09_2.png" width="200"/> <img src="./output/JAN09_3.png" width="200"/> <img src="./output/JAN09_4.png" width="200"/> 
 
+## JAN.10
+
+> Generative music
+
+
 ## JAN.11
 
 > Suprematism
