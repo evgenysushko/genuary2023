@@ -60,7 +60,7 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 > Generative music
 
-<video src="https://user-images.githubusercontent.com/18722815/211634350-b79ca098-e33b-4aa1-89fb-bbc17e25acbb.mov" controls="controls" style="max-width: 200px;">
+<video src="https://user-images.githubusercontent.com/18722815/211634350-b79ca098-e33b-4aa1-89fb-bbc17e25acbb.mov" controls="controls" width=200>
 </video>
 
 ## JAN.11
