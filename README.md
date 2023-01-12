@@ -68,3 +68,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Suprematism
 
 <img src="./output/JAN11_1.png" width="200"/> <img src="./output/JAN11_2.png" width="200"/> <img src="./output/JAN11_3.png" width="200"/> <img src="./output/JAN11_4.png" width="200"/> 
+
+## JAN.12
+
+> Tesselation
+
+<img src="./output/JAN12_1.png" width="200"/> <img src="./output/JAN12_2.png" width="200"/> <img src="./output/JAN12_3.png" width="200"/> <img src="./output/JAN12_4.png" width="200"/> 
