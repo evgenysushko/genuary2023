@@ -2,7 +2,7 @@
 Genuary 2023
 JAN.13 "Something you’ve always wanted to learn"
 
-Mosaic pattern from my pillowcase
+A mosaic pattern from my pillowcase
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
