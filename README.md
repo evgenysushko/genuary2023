@@ -74,3 +74,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Tesselation
 
 <img src="./output/JAN12_1.png" width="200"/> <img src="./output/JAN12_2.png" width="200"/> <img src="./output/JAN12_3.png" width="200"/> <img src="./output/JAN12_4.png" width="200"/> 
+
+## JAN.13
+
+> Something you’ve always wanted to learn
+
+<img src="./output/JAN13_1.png" width="200"/> <img src="./output/JAN13_2.png" width="200"/> <img src="./output/JAN13_3.png" width="200"/> <img src="./output/JAN13_4.png" width="200"/> 

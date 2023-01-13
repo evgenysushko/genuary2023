@@ -21,7 +21,6 @@ function draw() {
   randomSeed(actRandomSeed);
 
   let div = int(random(2, 50));
-  // let div = 10;
   let s = width / div;
 
   let det = random(0.01, 0.05);
