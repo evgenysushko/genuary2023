@@ -92,3 +92,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Sine waves
 
 <img src="./output/JAN15_1.png" width="200"/> <img src="./output/JAN15_2.png" width="200"/> <img src="./output/JAN15_3.png" width="200"/> <img src="./output/JAN15_4.png" width="200"/> 
+
+## JAN.16
+
+> Reflection of a reflection
+
+<img src="./output/JAN16_1.png" width="200"/> <img src="./output/JAN16_2.png" width="200"/> <img src="./output/JAN16_3.png" width="200"/> <img src="./output/JAN16_4.png" width="200"/> 
