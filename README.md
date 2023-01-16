@@ -99,11 +99,11 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN16_2.png" width="200"/> <img src="./output/JAN16_1.png" width="200"/> <img src="./output/JAN16_5.png" width="200"/> <img src="./output/JAN16_4.png" width="200"/> 
 
-<!-- ## JAN.17
+## JAN.17
 
 > A grid inside a grid inside a grid
 
-<img src="./output/JAN17_1.png" width="200"/> <img src="./output/JAN17_2.png" width="200"/> <img src="./output/JAN17_3.png" width="200"/> <img src="./output/JAN17_4.png" width="200"/>  -->
+<img src="./output/JAN17_1.png" width="200"/> <img src="./output/JAN17_2.png" width="200"/> <img src="./output/JAN17_3.png" width="200"/> <img src="./output/JAN17_4.png" width="200"/> 
 
 <!-- ## JAN.18
 
