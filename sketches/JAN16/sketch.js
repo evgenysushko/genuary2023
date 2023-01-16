@@ -2,6 +2,8 @@
 Genuary 2023
 JAN.16 "Reflection of a reflection"
 
+Credit to Piter Pasma for demo on using SDFs in p5.js - https://youtu.be/KRB57wyo8_4
+
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
 */

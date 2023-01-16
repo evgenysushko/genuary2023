@@ -97,4 +97,22 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 > Reflection of a reflection
 
-<img src="./output/JAN16_1.png" width="200"/> <img src="./output/JAN16_2.png" width="200"/> <img src="./output/JAN16_3.png" width="200"/> <img src="./output/JAN16_4.png" width="200"/> 
+<img src="./output/JAN16_2.png" width="200"/> <img src="./output/JAN16_1.png" width="200"/> <img src="./output/JAN16_5.png" width="200"/> <img src="./output/JAN16_4.png" width="200"/> 
+
+<!-- ## JAN.17
+
+> A grid inside a grid inside a grid
+
+<img src="./output/JAN17_1.png" width="200"/> <img src="./output/JAN17_2.png" width="200"/> <img src="./output/JAN17_3.png" width="200"/> <img src="./output/JAN17_4.png" width="200"/>  -->
+
+<!-- ## JAN.18
+
+> Definitely not a grid
+
+<img src="./output/JAN18_1.png" width="200"/> <img src="./output/JAN18_2.png" width="200"/> <img src="./output/JAN18_3.png" width="200"/> <img src="./output/JAN18_4.png" width="200"/>  -->
+
+## JAN.19
+
+> Black and white
+
+<img src="./output/JAN19_1.png" width="200"/> <img src="./output/JAN19_2.png" width="200"/> <img src="./output/JAN19_3.png" width="200"/> <img src="./output/JAN19_4.png" width="200"/> 
