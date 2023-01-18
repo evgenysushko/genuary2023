@@ -105,11 +105,11 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN17_1.png" width="200"/> <img src="./output/JAN17_2.png" width="200"/> <img src="./output/JAN17_3.png" width="200"/> <img src="./output/JAN17_4.png" width="200"/> 
 
-<!-- ## JAN.18
+## JAN.18
 
 > Definitely not a grid
 
-<img src="./output/JAN18_1.png" width="200"/> <img src="./output/JAN18_2.png" width="200"/> <img src="./output/JAN18_3.png" width="200"/> <img src="./output/JAN18_4.png" width="200"/>  -->
+<img src="./output/JAN18_1.png" width="200"/> <img src="./output/JAN18_2.png" width="200"/> <img src="./output/JAN18_3.png" width="200"/> <img src="./output/JAN18_4.png" width="200"/> 
 
 ## JAN.19
 
