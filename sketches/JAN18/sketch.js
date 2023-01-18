@@ -2,7 +2,8 @@
 Genuary 2023
 JAN.18 "Definitely not a grid"
 
-Credit to Levente Sandor for the watercolor brushes algorithm - https://openprocessing.org/sketch/110105
+Credit to Levente Sandor for the watercolor brushes algorithm:
+https://openprocessing.org/sketch/110105
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023

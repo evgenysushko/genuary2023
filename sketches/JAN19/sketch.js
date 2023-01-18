@@ -2,8 +2,6 @@
 Genuary 2023
 JAN.19 "Black and white"
 
-Credit to Ahmad Moussa for the "alternating grid" algorithm - https://gorillasun.de/blog/making-of-gzork
-
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
 */
