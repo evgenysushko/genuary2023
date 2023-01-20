@@ -122,3 +122,10 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Art Deco
 
 <img src="./output/JAN20_1.png" width="200"/> <img src="./output/JAN20_2.png" width="200"/> <img src="./output/JAN20_3.png" width="200"/> <img src="./output/JAN20_4.png" width="200"/> 
+
+## JAN.21
+
+> Persian Rug
+
+<img src="./output/JAN21_1.png" width="200"/> <img src="./output/JAN21_2.png" width="200"/> <img src="./output/JAN21_3.png" width="200"/> <img src="./output/JAN21_4.png" width="200"/> 
+<img src="./output/JAN21_5.png" width="200"/> <img src="./output/JAN21_6.png" width="200"/> <img src="./output/JAN21_7.png" width="200"/> <img src="./output/JAN21_8.png" width="200"/> 
