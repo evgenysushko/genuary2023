@@ -116,3 +116,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Black and white
 
 <img src="./output/JAN19_1.png" width="200"/> <img src="./output/JAN19_2.png" width="200"/> <img src="./output/JAN19_3.png" width="200"/> <img src="./output/JAN19_4.png" width="200"/> 
+
+## JAN.20
+
+> Art Deco
+
+<img src="./output/JAN20_1.png" width="200"/> <img src="./output/JAN20_2.png" width="200"/> <img src="./output/JAN20_3.png" width="200"/> <img src="./output/JAN20_4.png" width="200"/> 
