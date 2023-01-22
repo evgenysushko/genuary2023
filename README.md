@@ -135,3 +135,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Shadows
 
 <img src="./output/JAN22_3.png" width="200"/> <img src="./output/JAN22_1.png" width="200"/> <img src="./output/JAN22_2.png" width="200"/> <img src="./output/JAN22_4.png" width="200"/> 
+
+## JAN.23
+
+> More Moiré
+
+<img src="./output/JAN23_1.png" width="200"/> <img src="./output/JAN23_3.png" width="200"/> <img src="./output/JAN23_2.png" width="200"/> <img src="./output/JAN23_4.png" width="200"/> 
