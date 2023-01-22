@@ -2,9 +2,9 @@
 Genuary 2023
 JAN.21 "Persian Rug"
 
-Credits:
-- akizuki for pthe core Persian Pattern algorithm: https://openprocessing.org/sketch/1304832
-- Gorilla Sun, for the Granulation algorithm: https://www.fxhash.xyz/article/all-about-that-grain
+Credits to:
+- akizuki for the core Persian Pattern algorithm: https://openprocessing.org/sketch/1304832
+- Gorilla Sun for the Granulation algorithm: https://www.fxhash.xyz/article/all-about-that-grain
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023

@@ -129,3 +129,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN21_1.png" width="200"/> <img src="./output/JAN21_2.png" width="200"/> <img src="./output/JAN21_3.png" width="200"/> <img src="./output/JAN21_4.png" width="200"/> 
 <img src="./output/JAN21_5.png" width="200"/> <img src="./output/JAN21_6.png" width="200"/> <img src="./output/JAN21_7.png" width="200"/> <img src="./output/JAN21_8.png" width="200"/> 
+
+## JAN.22
+
+> Shadows
+
+<img src="./output/JAN22_3.png" width="200"/> <img src="./output/JAN22_1.png" width="200"/> <img src="./output/JAN22_2.png" width="200"/> <img src="./output/JAN22_4.png" width="200"/> 
