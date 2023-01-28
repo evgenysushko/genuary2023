@@ -141,3 +141,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > More Moiré
 
 <img src="./output/JAN23_1.png" width="200"/> <img src="./output/JAN23_3.png" width="200"/> <img src="./output/JAN23_2.png" width="200"/> <img src="./output/JAN23_4.png" width="200"/> 
+
+## JAN.28
+
+> Generative Poetry
+
+<img src="./output/JAN28_1.png" width="200"/> <img src="./output/JAN28_3.png" width="200"/> <img src="./output/JAN28_2.png" width="200"/> <img src="./output/JAN28_4.png" width="200"/> 

@@ -1,6 +1,8 @@
 /*
 Genuary 2023
-JAN.XX ""
+JAN.23 "More Moiré"
+
+Credit to Teiiii's work - https://openprocessing.org/sketch/1543917
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
