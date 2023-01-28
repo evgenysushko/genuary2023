@@ -147,3 +147,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Generative Poetry
 
 <img src="./output/JAN28_1.png" width="200"/> <img src="./output/JAN28_3.png" width="200"/> <img src="./output/JAN28_2.png" width="200"/> <img src="./output/JAN28_4.png" width="200"/> 
+
+## JAN.29
+
+> Maximalism
+
+<img src="./output/JAN29_1.png" width="200"/> <img src="./output/JAN29_2.png" width="200"/> <img src="./output/JAN29_3.png" width="200"/> <img src="./output/JAN29_4.png" width="200"/> 
