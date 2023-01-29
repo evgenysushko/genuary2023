@@ -1,6 +1,6 @@
 /*
 Genuary 2023
-JAN.XX ""
+JAN.25 "Yayoi Kusama"
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023

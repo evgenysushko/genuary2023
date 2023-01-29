@@ -148,6 +148,12 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN25_1.png" width="200"/> <img src="./output/JAN25_2.png" width="200"/> <img src="./output/JAN25_3.png" width="200"/> <img src="./output/JAN25_4.png" width="200"/> 
 
+## JAN.26
+
+> My kid could have made that
+
+<img src="./output/JAN26_1.png" width="200"/> <img src="./output/JAN26_2.png" width="200"/> <img src="./output/JAN26_3.png" width="200"/> <img src="./output/JAN26_4.png" width="200"/> 
+
 ## JAN.28
 
 > Generative Poetry
