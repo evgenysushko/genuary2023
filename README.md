@@ -153,3 +153,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Maximalism
 
 <img src="./output/JAN29_1.png" width="200"/> <img src="./output/JAN29_2.png" width="200"/> <img src="./output/JAN29_3.png" width="200"/> <img src="./output/JAN29_4.png" width="200"/> 
+
+## JAN.30
+
+> Minimalism
+
+<img src="./output/JAN30_1.svg" width="200"/> <img src="./output/JAN30_2.svg" width="200"/> <img src="./output/JAN30_3.svg" width="200"/> <img src="./output/JAN30_4.svg" width="200"/> 
