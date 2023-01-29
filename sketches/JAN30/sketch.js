@@ -13,7 +13,8 @@ let hexagonSize;
 
 function setup() {
   w = min(windowWidth, windowHeight);
-  createCanvas(w, w, SVG);
+  // createCanvas(w, w, SVG);
+  createCanvas(w, w);
 
   strokeWeight(2);
   stroke(255);
