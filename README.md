@@ -171,3 +171,9 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 > Minimalism
 
 <img src="./output/JAN30_1.svg" width="200"/> <img src="./output/JAN30_2.svg" width="200"/> <img src="./output/JAN30_3.svg" width="200"/> <img src="./output/JAN30_4.svg" width="200"/> 
+
+## JAN.31
+
+> Deliberately break one of your previous images
+
+<img src="./output/JAN31_1.png" width="200"/> <img src="./output/JAN31_2.png" width="200"/> <img src="./output/JAN31_3.png" width="200"/> <img src="./output/JAN31_4.png" width="200"/> 
