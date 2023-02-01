@@ -2,6 +2,8 @@
 Genuary 2023
 JAN.24 "Textile"
 
+Inspired by  https://www.fxhash.xyz/article/generating-realistic-textiles
+
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
 */
@@ -9,75 +11,199 @@ https://github.com/evgenysushko/genuary2023
 "use strict";
 
 let w = 800;
-// let actRandomSeed = 0;
-let numStripes = 5;
-let strokeW = w / (240 * 1);
-let tileCountX = 18 * 1;
-let tileCountY = 18 * 2;
+let scale = 7;
+let colors = ["#963267", "#1e2306", "#d2b86b", "#3a2329", "#7c92bd", "#926988"];
+let tileCountX = 18 * scale;
+let tileCountY = 18 * scale * 2;
+let tileWidth = w / tileCountX;
+let tileHeight = w / tileCountY;
+let actRandomSeed = 0;
+let tiles = [];
 
 function setup() {
   // pixelDensity(1);
   createCanvas(w, w);
-  // createCanvas(windowWidth, windowHeight);
-  background("#050406"); // Black Satin
-  // stroke("#C2C2BF"); // Pearl
   noStroke();
-  strokeWeight(strokeW); // draw lines 10 pixels thick
 }
 
 function draw() {
   noLoop();
-  // randomSeed(actRandomSeed);
-  // the width and height of each cell of the grid
-  let w = width / tileCountX;
-  let h = height / tileCountY;
-  // the distance between stripes
-  let w2 = w / numStripes;
-  let h2 = h / numStripes;
-
-  background(100);
+  randomSeed(actRandomSeed);
+  let c = random(colors);
+  let offsetY = 0;
   for (let row = 0; row < tileCountY; row++) {
-    let offset = 0;
-    for (let col = 0; col < tileCountX; col++) {
-      if ((row + col) % 2 == 0) {
-        fill("#963267");
-        rect(w * col + offset + 5, h * row, w, h);
-        offset = 0;
-      } else {
-        offset = 10;
-        fill("#963267");
-        rect(w * col, h * row, w + offset, h);
-        fill(0);
-        rect(w * col + offset, h * row, 5, h);
+    let offsetX = 0;
+    for (let col = 0; col < tileCountX * 2; col++) {
+      let isLong = col % 2 == 0 ? true : false;
+      let tileW = isLong ? tileWidth * 1.5 : tileWidth * 0.5;
+      tiles.push(
+        new Tile(
+          offsetX - offsetY,
+          tileHeight * row,
+          isLong,
+          tileW,
+          tileHeight,
+          c
+        )
+      );
+      offsetX += tileW;
+    }
+    offsetY += tileWidth / 2;
+  }
+
+  for (let tile of tiles) {
+    tile.show();
+  }
+}
+
+class Tile {
+  constructor(x, y, il, w, h, c) {
+    this.x = x;
+    this.y = y;
+    this.isLong = il;
+    this.w = w + 0.5;
+    this.h = h + 0.5;
+    this.c = c;
+  }
+
+  show() {
+    let w = 0;
+    let h, w1;
+    // main rectangle
+    fill(this.c);
+    rect(this.x, this.y, this.w, this.h);
+    if (this.isLong) {
+      // long tile
+      // vertical shadows - left
+      if (random() < 0.95) {
+        w = this.w * random(0.1, 0.4);
+
+        w1 = random(w);
+        fill(0, random(100, 150));
+        rect(this.x, this.y, w1, this.h);
+
+        fill(0, random(60, 90));
+        rect(this.x + w1, this.y, w - w1, this.h);
       }
-      // for (let i = 0; i < numStripes; i++) {
-      //   // this will be true for every other cell in the grid
-      //   if ((row + col) % 2 == 0) {
-      //     // horizontal lines
-      //     line(
-      //       w * col + w2 / 2,
-      //       h * row + i * h2 + h2 / 2,
-      //       w * (col + 1) - w2 / 2,
-      //       h * row + i * h2 + h2 / 2
-      //     );
-      //   } else {
-      //     // vertical lines
-      //     line(
-      //       w * col + i * w2 + w2 / 2,
-      //       h * row + h2 / 2,
-      //       w * col + i * w2 + w2 / 2,
-      //       h * (row + 1) - h2 / 2
-      //     );
-      //   }
-      // }
+      // vertical shadows - right
+      if (random() < 0.95) {
+        w = this.w * random(0.1, 0.4);
+
+        w1 = random(w);
+        fill(0, random(100, 150));
+        rect(this.x + this.w - w1, this.y, w1, this.h);
+
+        fill(0, random(60, 90));
+        rect(this.x + this.w - w + w1, this.y, w - w1, this.h);
+      }
+      // triangle shadows
+      if (random() < 0.8) {
+        fill(0, random(50, 100));
+        triangle(
+          this.x,
+          this.y,
+          this.x + this.w * random(0.05, 0.15),
+          this.y,
+          this.x,
+          this.y + this.h * random(0.1, 0.3)
+        );
+      }
+      if (random() < 0.8) {
+        fill(0, random(50, 100));
+        triangle(
+          this.x,
+          this.y + this.h,
+          this.x + this.w * random(0.2, 0.4),
+          this.y + this.h,
+          this.x,
+          this.y + this.h - this.h * random(0.3, 0.7)
+        );
+      }
+      if (random() < 0.8) {
+        fill(0, random(50, 100));
+        triangle(
+          this.x + this.w,
+          this.y + this.h,
+          this.x + this.w,
+          this.y + this.h * random(0.5, 0.8),
+          this.x + this.w - this.w * random(0.1, 0.3),
+          this.y + this.h
+        );
+      }
+      // white ellipse shadows
+      for (let i = 0; i < 2; i++) {
+        if (random() < 0.9) {
+          fill(255, random(40, 70));
+          ellipse(
+            this.x + this.w * random(0.3, 0.7),
+            this.y + this.h * random(0.4, 0.6),
+            this.w * random(0.2, 0.7),
+            this.h * random(0.2, 0.7)
+          );
+        }
+      }
+    } else {
+      // short tile
+      // horizontal shadow - top
+      if (random() < 0.9) {
+        fill(0, random(50, 120));
+        h = this.h * random(0.2, 0.3);
+        rect(this.x, this.y, this.w, h);
+        if (random() < 0.9) {
+          // horizontal shadow - bottom
+          fill(0, random(50, 120));
+          h = this.h * random(0.2, 0.3);
+          rect(this.x, this.y + this.h - h, this.w, h);
+        }
+      } else {
+        // horizontal shadow - bottom
+        fill(0, random(50, 120));
+        h = this.h * random(0.2, 0.3);
+        rect(this.x, this.y + this.h - h, this.w, h);
+      }
+      // triangle shadows
+      if (random() < 0.97) {
+        fill(0, random(50, 120));
+        triangle(
+          this.x,
+          this.y + this.h * 0.5,
+          this.x + this.w * random(0.2, 0.5),
+          this.y,
+          this.x - this.w * random(0.5, 1),
+          this.y
+        );
+      }
+      if (random() < 0.9) {
+        fill(0, random(50, 120));
+        triangle(
+          this.x + this.w,
+          this.y + this.h,
+          this.x + this.w,
+          this.y + this.h * random(0.3, 0.8),
+          this.x + this.w - this.w * random(0.2, 0.6),
+          this.y + this.h
+        );
+      }
+      // white ellipse shadows
+      for (let i = 0; i < 2; i++) {
+        if (random() < 0.9) {
+          fill(255, random(40, 80));
+          ellipse(
+            this.x + this.w * random(0.4, 0.6),
+            this.y + this.h * random(0.4, 0.6),
+            this.w * random(0.2, 0.7),
+            this.h * random(0.2, 0.7)
+          );
+        }
+      }
     }
   }
 }
 
 function keyPressed() {
   if (key == "s" || key == "S") saveCanvas("output", "png");
-  // else {
-  //   actRandomSeed = random(100000);
-  //   loop();
-  // }
+  else {
+    actRandomSeed = random(100000);
+    loop();
+  }
 }

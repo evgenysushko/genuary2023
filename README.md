@@ -142,6 +142,12 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN23_1.png" width="200"/> <img src="./output/JAN23_3.png" width="200"/> <img src="./output/JAN23_2.png" width="200"/> <img src="./output/JAN23_4.png" width="200"/> 
 
+## JAN.24
+
+> Textile
+
+<img src="./output/JAN24_1.png" width="200"/> <img src="./output/JAN24_2.png" width="200"/> <img src="./output/JAN24_3.png" width="200"/> <img src="./output/JAN24_4.png" width="200"/> 
+
 ## JAN.25
 
 > Yayoi Kusama
