@@ -160,6 +160,12 @@ Daily creative coding sketches for [Genuary 2023](https://genuary.art/)
 
 <img src="./output/JAN26_1.png" width="200"/> <img src="./output/JAN26_2.png" width="200"/> <img src="./output/JAN26_3.png" width="200"/> <img src="./output/JAN26_4.png" width="200"/> 
 
+## JAN.27
+
+> In the style of Hilma Af Klint
+
+<img src="./output/JAN27_1.png" width="200"/> <img src="./output/JAN27_2.png" width="200"/> <img src="./output/JAN27_3.png" width="200"/> <img src="./output/JAN27_4.png" width="200"/> 
+
 ## JAN.28
 
 > Generative Poetry

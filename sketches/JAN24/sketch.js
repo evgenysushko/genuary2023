@@ -2,7 +2,7 @@
 Genuary 2023
 JAN.24 "Textile"
 
-Inspired by  https://www.fxhash.xyz/article/generating-realistic-textiles
+Inspired by https://www.fxhash.xyz/article/generating-realistic-textiles
 
 By Evgeny Sushko
 https://github.com/evgenysushko/genuary2023
